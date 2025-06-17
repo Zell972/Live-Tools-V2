@@ -9,4 +9,8 @@ ACCOUNTS = {
         "secret_api": "",
         "memo": "",
     },
+    "hyperliquid1": {
+        "public_api": "",
+        "secret_api": "",
+    },
 }
