@@ -2,9 +2,10 @@
 
 ## Set up
 
-> git clone https://github.com/CryptoRobotFr/Live-Tools-V2.git
+> git clone https://github.com/Zell972/Live-Tools-V2.git
 
 ### Install Envelopes strategy
+> bash Live-Tools-V2/install.sh envelopes_multi_hyperliquid
 > bash Live-Tools-V2/install.sh envelopes_multi_bitget
 
 ### Install Trix strategy
