@@ -6,6 +6,7 @@
 
 ### Install Envelopes strategy
 > bash Live-Tools-V2/install.sh envelopes_multi_hyperliquid
+
 > bash Live-Tools-V2/install.sh envelopes_multi_bitget
 
 ### Install Trix strategy
