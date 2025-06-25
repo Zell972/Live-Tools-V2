@@ -162,7 +162,7 @@ async def main():
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "TRX/USDT": {
+        "ANKR/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
