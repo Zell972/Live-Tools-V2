@@ -22,77 +22,77 @@ async def main():
     tf = "1h"
     sl = 0.3
     params = {
-        "BTC/USDT": {
+        "ZBCN/USDT": {
             "src": "close",
             "ma_base_window": 7,
             "envelopes": [0.07, 0.1, 0.15],
             "size": 0.1,
             "sides": ["long", "short"],
         },
-        "ETH/USDT": {
+        "HYPE/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15],
             "size": 0.1,
             "sides": ["long", "short"],
         },
-        "ADA/USDT": {
+        "ATH/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.09, 0.12, 0.15],
             "size": 0.1,
             "sides": ["long", "short"],
         },
-        "AVAX/USDT": {
+        "TAO/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.09, 0.12, 0.15],
             "size": 0.1,
             "sides": ["long", "short"],
         },
-        "EGLD/USDT": {
+        "FET/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "KSM/USDT": {
+        "ENA/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "OCEAN/USDT": {
+        "STX/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "REN/USDT": {
+        "NEAR/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "ACH/USDT": {
+        "JTO/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "APE/USDT": {
+        "SUPER/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "CRV/USDT": {
+        "CHZ/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
@@ -106,14 +106,14 @@ async def main():
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "ENJ/USDT": {
+        "SNT/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "FET/USDT": {
+        "XAI/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
@@ -141,21 +141,21 @@ async def main():
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "MAGIC/USDT": {
+        "AKT/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "REEF/USDT": {
+        "JASMY/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "SAND/USDT": {
+        "ROSE/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
@@ -169,7 +169,7 @@ async def main():
             "size": 0.05,
             "sides": ["long", "short"],
         },
-        "XTZ/USDT": {
+        "PEAQ/USDT": {
             "src": "close",
             "ma_base_window": 5,
             "envelopes": [0.07, 0.1, 0.15, 0.2],
